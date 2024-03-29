@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1421728997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 918e0159d89a6bfd81c3bef02c4a1dd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c49380cbe1c674de69d61a6c8f6f84e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5331f59867782c14096456abb94de423, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AnotherPublisherGame
+- AssemblyName: Assembly-CSharp
+  ClassName: InAppProduct
+- AssemblyName: Assembly-CSharp
+  ClassName: ThemeColor
+Assets:
+- Assets/PictureQuizPlus/Resources/details/settings/Game.asset
+Dependencies: []
