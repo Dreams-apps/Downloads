@@ -1,0 +1,1675 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae28374fa1d28e84d89ef31a27fdba89, type: 3}
+  m_Name: italiano
+  m_EditorClassIdentifier: 
+  tasksData:
+  - name: Start
+    folderName: Start
+    localizedName: Inizio
+    gameType: 0
+    useMixedTypes: 0
+    sortingIndex: 1
+    forceNoImage: 0
+    orderNumber: 1
+    Levels:
+    - index: 1
+      gameType: 0
+      rightAnswer: sopra
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 1
+    - index: 2
+      gameType: 0
+      rightAnswer: bordo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 2
+    - index: 3
+      gameType: 0
+      rightAnswer: primavera
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 3
+    - index: 4
+      gameType: 0
+      rightAnswer: guerra
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 4
+    - index: 5
+      gameType: 0
+      rightAnswer: vita
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 5
+    - index: 6
+      gameType: 0
+      rightAnswer: ridere
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 6
+    - index: 7
+      gameType: 0
+      rightAnswer: pavimento
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 7
+    - index: 8
+      gameType: 0
+      rightAnswer: bianco
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 8
+    - index: 9
+      gameType: 0
+      rightAnswer: destro
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 9
+    - index: 10
+      gameType: 0
+      rightAnswer: orribile
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 10
+    - index: 11
+      gameType: 0
+      rightAnswer: pericoloso
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 11
+    - index: 12
+      gameType: 0
+      rightAnswer: inizio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 12
+    - index: 13
+      gameType: 0
+      rightAnswer: gentile
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 13
+    - index: 14
+      gameType: 0
+      rightAnswer: simile
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 14
+    - index: 15
+      gameType: 0
+      rightAnswer: splendente
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 15
+    - index: 16
+      gameType: 0
+      rightAnswer: trovare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 16
+    - index: 17
+      gameType: 0
+      rightAnswer: felice
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 17
+    - index: 18
+      gameType: 0
+      rightAnswer: lanciare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 18
+    - index: 19
+      gameType: 0
+      rightAnswer: calore
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 19
+    - index: 20
+      gameType: 0
+      rightAnswer: affilato
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 20
+    - index: 21
+      gameType: 0
+      rightAnswer: attacco
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 21
+    - index: 22
+      gameType: 0
+      rightAnswer: pochi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 22
+    - index: 23
+      gameType: 0
+      rightAnswer: intelligente
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 23
+    - index: 24
+      gameType: 0
+      rightAnswer: dormire
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 24
+    - index: 25
+      gameType: 0
+      rightAnswer: naturale
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 25
+    - index: 26
+      gameType: 0
+      rightAnswer: distruggere
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 26
+    - index: 27
+      gameType: 0
+      rightAnswer: calmo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 27
+    - index: 28
+      gameType: 0
+      rightAnswer: piccolo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 28
+    - index: 29
+      gameType: 0
+      rightAnswer: ingresso
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 29
+    - index: 30
+      gameType: 0
+      rightAnswer: economico
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 30
+    - index: 31
+      gameType: 0
+      rightAnswer: pieno
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 31
+    - index: 32
+      gameType: 0
+      rightAnswer: poco profondo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 32
+    - index: 33
+      gameType: 0
+      rightAnswer: coraggio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 33
+    - index: 34
+      gameType: 0
+      rightAnswer: permettere
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 34
+    - index: 35
+      gameType: 0
+      rightAnswer: partenza
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 35
+    - index: 36
+      gameType: 0
+      rightAnswer: prudente
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 36
+    - index: 37
+      gameType: 0
+      rightAnswer: morte
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 37
+    - index: 38
+      gameType: 0
+      rightAnswer: codardo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 38
+    - index: 39
+      gameType: 0
+      rightAnswer: leggero
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 39
+    - index: 40
+      gameType: 0
+      rightAnswer: valle
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 40
+    - index: 41
+      gameType: 0
+      rightAnswer: fuori di
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 41
+    - index: 42
+      gameType: 0
+      rightAnswer: giovane
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 42
+    - index: 43
+      gameType: 0
+      rightAnswer: bene
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 43
+    - index: 44
+      gameType: 0
+      rightAnswer: nord
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 44
+    - index: 45
+      gameType: 0
+      rightAnswer: fuoco
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 45
+    - index: 46
+      gameType: 0
+      rightAnswer: democrazia
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 46
+    - index: 47
+      gameType: 0
+      rightAnswer: nuvoloso
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 47
+    - index: 48
+      gameType: 0
+      rightAnswer: attillato
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 48
+    - index: 49
+      gameType: 0
+      rightAnswer: veloce
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 49
+    - index: 50
+      gameType: 0
+      rightAnswer: moderno
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 50
+    - index: 51
+      gameType: 0
+      rightAnswer: Demonio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 51
+    - index: 52
+      gameType: 0
+      rightAnswer: giorno
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 52
+    - index: 53
+      gameType: 0
+      rightAnswer: sano
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 53
+    - index: 54
+      gameType: 0
+      rightAnswer: alto
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 54
+    - index: 55
+      gameType: 0
+      rightAnswer: cantina
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 55
+    - index: 56
+      gameType: 0
+      rightAnswer: lontano
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 56
+    - index: 57
+      gameType: 0
+      rightAnswer: autunno
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 57
+    - index: 58
+      gameType: 0
+      rightAnswer: sfortunato
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 58
+    - index: 59
+      gameType: 0
+      rightAnswer: sotto
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 59
+    - index: 60
+      gameType: 0
+      rightAnswer: magro
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 60
+    - index: 61
+      gameType: 0
+      rightAnswer: acconsentire
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 61
+    - index: 62
+      gameType: 0
+      rightAnswer: chiudersi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 62
+    - index: 63
+      gameType: 0
+      rightAnswer: abbondante
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 63
+    - index: 64
+      gameType: 0
+      rightAnswer: stare in piedi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 64
+    - index: 65
+      gameType: 0
+      rightAnswer: divorzio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 65
+    - index: 66
+      gameType: 0
+      rightAnswer: sicuro
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 66
+    - index: 67
+      gameType: 0
+      rightAnswer: povero
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 67
+    - index: 68
+      gameType: 0
+      rightAnswer: secco
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 68
+    - index: 69
+      gameType: 0
+      rightAnswer: dolce
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 69
+    - index: 70
+      gameType: 0
+      rightAnswer: semplice
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 70
+    - index: 71
+      gameType: 0
+      rightAnswer: tranquillo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 71
+    - index: 72
+      gameType: 0
+      rightAnswer: bello
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 72
+    - index: 73
+      gameType: 0
+      rightAnswer: ruvido
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 73
+    - index: 74
+      gameType: 0
+      rightAnswer: freddo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 74
+    - index: 75
+      gameType: 0
+      rightAnswer: davanti
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 75
+    - index: 76
+      gameType: 0
+      rightAnswer: vivo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 76
+    - index: 77
+      gameType: 0
+      rightAnswer: aumento
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 77
+    - index: 78
+      gameType: 0
+      rightAnswer: speranzoso
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 78
+    - index: 79
+      gameType: 0
+      rightAnswer: pulito
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 79
+    - index: 80
+      gameType: 0
+      rightAnswer: vero
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 80
+    - index: 81
+      gameType: 0
+      rightAnswer: nemico
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 81
+    - index: 82
+      gameType: 0
+      rightAnswer: fermarsi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 82
+    - index: 83
+      gameType: 0
+      rightAnswer: scuro
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 83
+    - index: 84
+      gameType: 0
+      rightAnswer: guasto
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 84
+    - index: 85
+      gameType: 0
+      rightAnswer: spendere
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 85
+    - index: 86
+      gameType: 0
+      rightAnswer: "realt\xE0"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 86
+    - index: 87
+      gameType: 0
+      rightAnswer: inumidito
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 87
+    - index: 88
+      gameType: 0
+      rightAnswer: vuoto
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 88
+    - index: 89
+      gameType: 0
+      rightAnswer: allarmante
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 89
+    - index: 90
+      gameType: 0
+      rightAnswer: solo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 90
+    - index: 91
+      gameType: 0
+      rightAnswer: est
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 91
+    - index: 92
+      gameType: 0
+      rightAnswer: nero
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 92
+    - index: 93
+      gameType: 0
+      rightAnswer: forte
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 93
+    - index: 94
+      gameType: 0
+      rightAnswer: estate
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 94
+    - index: 95
+      gameType: 0
+      rightAnswer: rispondere
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 95
+    - index: 96
+      gameType: 0
+      rightAnswer: visibile
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 96
+    - index: 97
+      gameType: 0
+      rightAnswer: bisbigliare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 97
+    - index: 98
+      gameType: 0
+      rightAnswer: esatto
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 98
+    - index: 99
+      gameType: 0
+      rightAnswer: amnistia
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 99
+    - index: 100
+      gameType: 0
+      rightAnswer: perdente
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 100
+    - index: 101
+      gameType: 0
+      rightAnswer: addomesticato
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 101
+    - index: 102
+      gameType: 0
+      rightAnswer: ghiaccio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 102
+    - index: 103
+      gameType: 0
+      rightAnswer: negativo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 103
+    - index: 104
+      gameType: 0
+      rightAnswer: basso
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 104
+    - index: 105
+      gameType: 0
+      rightAnswer: attivo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 105
+    - index: 106
+      gameType: 0
+      rightAnswer: mandare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 106
+    - index: 107
+      gameType: 0
+      rightAnswer: fratelli
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 107
+    - index: 108
+      gameType: 0
+      rightAnswer: stupido
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 108
+    - index: 109
+      gameType: 0
+      rightAnswer: lento
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 109
+    - index: 110
+      gameType: 0
+      rightAnswer: largo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 110
+    - index: 111
+      gameType: 0
+      rightAnswer: scrivere
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 111
+    - index: 112
+      gameType: 0
+      rightAnswer: salvare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 112
+    - index: 113
+      gameType: 0
+      rightAnswer: grande
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 113
+    - index: 114
+      gameType: 0
+      rightAnswer: pesante
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 114
+    - index: 115
+      gameType: 0
+      rightAnswer: villaggio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 115
+    - index: 116
+      gameType: 0
+      rightAnswer: vista
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 116
+    - index: 117
+      gameType: 0
+      rightAnswer: femmina
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 117
+    - index: 118
+      gameType: 0
+      rightAnswer: affondare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 118
+    - index: 119
+      gameType: 0
+      rightAnswer: possibile
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 119
+    - index: 120
+      gameType: 0
+      rightAnswer: odiare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 120
+    - index: 121
+      gameType: 0
+      rightAnswer: passato
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 121
+    - index: 122
+      gameType: 0
+      rightAnswer: sveglio
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 122
+    - index: 123
+      gameType: 0
+      rightAnswer: gigante
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 123
+    - index: 124
+      gameType: 0
+      rightAnswer: terra
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 124
+    - index: 125
+      gameType: 0
+      rightAnswer: pace
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 125
+    - index: 126
+      gameType: 0
+      rightAnswer: minimo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 126
+    - index: 127
+      gameType: 0
+      rightAnswer: debole
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 127
+    - index: 128
+      gameType: 0
+      rightAnswer: selvatico
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 128
+    - index: 129
+      gameType: 0
+      rightAnswer: afferrare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 129
+    - index: 130
+      gameType: 0
+      rightAnswer: umano
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 130
+    - index: 131
+      gameType: 0
+      rightAnswer: salutare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 131
+    - index: 132
+      gameType: 0
+      rightAnswer: aspro
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 132
+    - index: 133
+      gameType: 0
+      rightAnswer: fiorire
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 133
+    - index: 134
+      gameType: 0
+      rightAnswer: libero
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 134
+    - index: 135
+      gameType: 0
+      rightAnswer: pigro
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 135
+    - index: 136
+      gameType: 0
+      rightAnswer: imparare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 136
+    - index: 137
+      gameType: 0
+      rightAnswer: fame
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 137
+    - index: 138
+      gameType: 0
+      rightAnswer: "verit\xE0"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 138
+    - index: 139
+      gameType: 0
+      rightAnswer: nuovo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 139
+    - index: 140
+      gameType: 0
+      rightAnswer: sole
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 140
+    - index: 141
+      gameType: 0
+      rightAnswer: basso
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 141
+    - index: 142
+      gameType: 0
+      rightAnswer: costruire
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 142
+    - index: 143
+      gameType: 0
+      rightAnswer: brutto
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 143
+    - index: 144
+      gameType: 0
+      rightAnswer: calo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 144
+    - index: 145
+      gameType: 0
+      rightAnswer: orizzontale
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 145
+    - index: 146
+      gameType: 0
+      rightAnswer: criminale
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 146
+    - index: 147
+      gameType: 0
+      rightAnswer: ciao
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 147
+    - index: 148
+      gameType: 0
+      rightAnswer: cancellare
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 148
+    - index: 149
+      gameType: 0
+      rightAnswer: uomo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 149
+    - index: 150
+      gameType: 0
+      rightAnswer: sorelle
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 150
+  gameItems:
+  - key: 0
+    value: Giocare
+  - key: 1
+    value: Info
+  - key: 2
+    value: Uscita
+  - key: 3
+    value: Indietro
+  - key: 4
+    value: "Preparati a risolvere alcuni puzzle di immagini! Rimani bloccato? Usa
+      diversi suggerimenti! Guadagna monete completando le attivit\xE0 o guardando
+      breve annuncio! Divertiti!"
+  - key: 5
+    value: Bloccato
+  - key: 6
+    value: Rivela una lettera
+  - key: 7
+    value: Rimuovi le lettere
+  - key: 8
+    value: Ottieni una risposta
+  - key: 9
+    value: Ottieni monete
+  - key: 10
+    value: Guarda l'annuncio
+  - key: 11
+    value: Compra per soldi
+  - key: 12
+    value: Continua
+  - key: 13
+    value: menu principale
+  - key: 14
+    value: Livello completato!
+  - key: 15
+    value: "Se ti \xE8 piaciuto il gioco, votalo su Google Play!"
+  - key: 16
+    value: Vota
+  - key: 18
+    value: dopo
+  - key: 17
+    value: mai
+  - key: 19
+    value: Consenso alla raccolta dei dati
+  - key: 20
+    value: "Pubblicit\xE0 personalizzate"
+  - key: 21
+    value: Consentire alle reti di annunci di utilizzare i dati raccolti e mostrare
+      annunci personalizzati
+  - key: 22
+    value: "s\xEC"
+  - key: 23
+    value: no
+  - key: 24
+    value: Sembra che tu abbia progressi migliori!
+  - key: 25
+    value: Vuoi caricarlo?
+  - key: 26
+    value: Ciao! Solo per farti sapere, utilizziamo il tuo gameplay e i dati del
+      dispositivo con il tuo consenso per migliorare il nostro gioco!
+  - key: 27
+    value: "Vuoi che ti presentiamo pubblicit\xE0 pertinente adatta ai tuoi interessi?"
+  - key: 28
+    value: Confermare
+  - key: 29
+    value: "Per saperne di pi\xF9"
+  - key: 30
+    value: Rimuovi la risposta sbagliata
+  - key: 31
+    value: Rimuovi due risposte
+  - key: 32
+    value: "Possibilit\xE0 di sbagliare"
+  - key: 33
+    value: Per favore, aiutami a completare il livello!
+  - key: 34
+    value: Aiuto dagli amici
+  - key: 35
+    value: Chiedi agli amici
+  - key: 36
+    value: Scommessa
+  - key: 37
+    value: Usa i suggerimenti se rimani bloccato!
+  - key: 38
+    value: Tocca la lettera per cancellarla. Scorri per cancellare tutte le lettere.
+  - key: 39
+    value: Raschia il film per rivelare l'immagine!
+  - key: 40
+    value: "Tocca questo per rendere l'immagine pi\xF9 chiara. Richiede l'oro!"
+  - key: 41
+    value: "Tocca l'immagine per renderla pi\xF9 chiara. Richiede l'oro!"
+  - key: 42
+    value: Tocca questo per iniziare a mirare. Tocca la seconda volta per sparare.
+      Richiede l'oro!
+  - key: 43
+    value: Tocca l'area per iniziare a mirare. Tocca la seconda volta per sparare.
+      Richiede l'oro!
+  - key: 44
+    value: "Tocca per ottenere informazioni utili sull'attivit\xE0!"
+  - key: 45
+    value: "Quanto \xE8 difficile questo compito? Fai una scommessa giusta!"
+  - key: 46
+    value: "pi\xF9 giochi"
+  - key: 47
+    value: riprova
+  - key: 65
+    value: Compra per
+  - key: 49
+    value: Impostazioni
+  - key: 50
+    value: Giochi di Google Play
+  - key: 51
+    value: Privacy
+  - key: 55
+    value: politica sulla riservatezza
+  - key: 52
+    value: Lingua
+  - key: 53
+    value: Suoni
+  - key: 54
+    value: Musica
+  - key: 56
+    value: Impostazioni annunci
+  - key: 57
+    value: "Pubblicit\xE0"
+  - key: 58
+    value: I miei dati
+  - key: 59
+    value: Politica
+  - key: 60
+    value: Salvataggio nel cloud
+  - key: 61
+    value: No grazie
+  - key: 63
+    value: Ricaricare
+  - key: 64
+    value: Impossibile continuare
+  - key: 66
+    value: Ottenere
+  - key: 67
+    value: Monete
+  - key: 71
+    value: Bonus
+  - key: 69
+    value: Vuoi utilizzare Google Play Games per salvare i tuoi progressi di gioco
+      e mantenerli sempre sincronizzati?
+  - key: 70
+    value: "Puoi rispondere in modo errato e il gioco continuer\xE0. Se rispondi
+      correttamente, riceverai indietro le monete spese"
+  - key: 68
+    value: Seleziona categoria
+  subCategories: []
+  randomLetters: 6100620063006400650066006700680069006c006d006e006f007000710072007300740075007600e0007a00

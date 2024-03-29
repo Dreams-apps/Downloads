@@ -1,0 +1,1677 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae28374fa1d28e84d89ef31a27fdba89, type: 3}
+  m_Name: deutsch
+  m_EditorClassIdentifier: 
+  tasksData:
+  - name: Start
+    folderName: Start
+    localizedName: Start
+    gameType: 0
+    useMixedTypes: 0
+    sortingIndex: 1
+    forceNoImage: 0
+    orderNumber: 1
+    Levels:
+    - index: 1
+      gameType: 0
+      rightAnswer: oben
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 1
+    - index: 2
+      gameType: 0
+      rightAnswer: KANTE
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 2
+    - index: 3
+      gameType: 0
+      rightAnswer: "FR\xDCHLING"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 3
+    - index: 4
+      gameType: 0
+      rightAnswer: KRIEG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 4
+    - index: 5
+      gameType: 0
+      rightAnswer: LEBEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 5
+    - index: 6
+      gameType: 0
+      rightAnswer: LACHEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 6
+    - index: 7
+      gameType: 0
+      rightAnswer: BODEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 7
+    - index: 8
+      gameType: 0
+      rightAnswer: "Wei\xDF"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 8
+    - index: 9
+      gameType: 0
+      rightAnswer: RECHTS
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 9
+    - index: 10
+      gameType: 0
+      rightAnswer: SCHLECHT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 10
+    - index: 11
+      gameType: 0
+      rightAnswer: "GEF\xC4HRLICH"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 11
+    - index: 12
+      gameType: 0
+      rightAnswer: Anfang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 12
+    - index: 13
+      gameType: 0
+      rightAnswer: GUT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 13
+    - index: 14
+      gameType: 0
+      rightAnswer: "\xC4HNLICH"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 14
+    - index: 15
+      gameType: 0
+      rightAnswer: LICHT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 15
+    - index: 16
+      gameType: 0
+      rightAnswer: FINDEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 16
+    - index: 17
+      gameType: 0
+      rightAnswer: "GL\xDCCKLICH"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 17
+    - index: 18
+      gameType: 0
+      rightAnswer: WERFEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 18
+    - index: 19
+      gameType: 0
+      rightAnswer: HITZE
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 19
+    - index: 20
+      gameType: 0
+      rightAnswer: SCHARF
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 20
+    - index: 21
+      gameType: 0
+      rightAnswer: ANGRIFF
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 21
+    - index: 22
+      gameType: 0
+      rightAnswer: WENIGE
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 22
+    - index: 23
+      gameType: 0
+      rightAnswer: gescheit
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 23
+    - index: 24
+      gameType: 0
+      rightAnswer: SCHLAFEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 24
+    - index: 25
+      gameType: 0
+      rightAnswer: "NAT\xDCRLICH"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 25
+    - index: 26
+      gameType: 0
+      rightAnswer: "ZERST\xD6REN"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 26
+    - index: 27
+      gameType: 0
+      rightAnswer: ruhig
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 27
+    - index: 28
+      gameType: 0
+      rightAnswer: KLEIN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 28
+    - index: 29
+      gameType: 0
+      rightAnswer: EINGANG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 29
+    - index: 30
+      gameType: 0
+      rightAnswer: BILLIG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 30
+    - index: 31
+      gameType: 0
+      rightAnswer: VOLL
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 31
+    - index: 32
+      gameType: 0
+      rightAnswer: SEICHT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 32
+    - index: 33
+      gameType: 0
+      rightAnswer: COURAGE
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 33
+    - index: 34
+      gameType: 0
+      rightAnswer: erlauben
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 34
+    - index: 35
+      gameType: 0
+      rightAnswer: ABFAHRT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 35
+    - index: 36
+      gameType: 0
+      rightAnswer: VORSICHTIG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 36
+    - index: 37
+      gameType: 0
+      rightAnswer: TOD
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 37
+    - index: 38
+      gameType: 0
+      rightAnswer: FEIGLING
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 38
+    - index: 39
+      gameType: 0
+      rightAnswer: LEICHT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 39
+    - index: 40
+      gameType: 0
+      rightAnswer: Tal
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 40
+    - index: 41
+      gameType: 0
+      rightAnswer: "drau\xDFen"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 41
+    - index: 42
+      gameType: 0
+      rightAnswer: JUNG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 42
+    - index: 43
+      gameType: 0
+      rightAnswer: RICHTIG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 43
+    - index: 44
+      gameType: 0
+      rightAnswer: NORDEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 44
+    - index: 45
+      gameType: 0
+      rightAnswer: FEUER
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 45
+    - index: 46
+      gameType: 0
+      rightAnswer: DEMOKRATIE
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 46
+    - index: 47
+      gameType: 0
+      rightAnswer: wolkig
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 47
+    - index: 48
+      gameType: 0
+      rightAnswer: ENG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 48
+    - index: 49
+      gameType: 0
+      rightAnswer: SCHNELL
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 49
+    - index: 50
+      gameType: 0
+      rightAnswer: MODERN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 50
+    - index: 51
+      gameType: 0
+      rightAnswer: TEUFEL
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 51
+    - index: 52
+      gameType: 0
+      rightAnswer: TAG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 52
+    - index: 53
+      gameType: 0
+      rightAnswer: gesund
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 53
+    - index: 54
+      gameType: 0
+      rightAnswer: "GRO\xDF"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 54
+    - index: 55
+      gameType: 0
+      rightAnswer: KELLER
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 55
+    - index: 56
+      gameType: 0
+      rightAnswer: WEIT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 56
+    - index: 57
+      gameType: 0
+      rightAnswer: HERBST
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 57
+    - index: 58
+      gameType: 0
+      rightAnswer: "UNGL\xDCCKLICH"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 58
+    - index: 59
+      gameType: 0
+      rightAnswer: UNTEn
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 59
+    - index: 60
+      gameType: 0
+      rightAnswer: "D\xDCNN"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 60
+    - index: 61
+      gameType: 0
+      rightAnswer: ZUSTIMMEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 61
+    - index: 62
+      gameType: 0
+      rightAnswer: "Schlie\xDFen"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 62
+    - index: 63
+      gameType: 0
+      rightAnswer: REICHLICH
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 63
+    - index: 64
+      gameType: 0
+      rightAnswer: STEHEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 64
+    - index: 65
+      gameType: 0
+      rightAnswer: SCHEIDUNG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 65
+    - index: 66
+      gameType: 0
+      rightAnswer: sicher
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 66
+    - index: 67
+      gameType: 0
+      rightAnswer: ARM
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 67
+    - index: 68
+      gameType: 0
+      rightAnswer: TROCKNEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 68
+    - index: 69
+      gameType: 0
+      rightAnswer: "S\xDC\xDF"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 69
+    - index: 70
+      gameType: 0
+      rightAnswer: EINFACH
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 70
+    - index: 71
+      gameType: 0
+      rightAnswer: RUHIG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 71
+    - index: 72
+      gameType: 0
+      rightAnswer: "H\xDCBSCH"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 72
+    - index: 73
+      gameType: 0
+      rightAnswer: GROB
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 73
+    - index: 74
+      gameType: 0
+      rightAnswer: KALT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 74
+    - index: 75
+      gameType: 0
+      rightAnswer: front
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 75
+    - index: 76
+      gameType: 0
+      rightAnswer: LEBENDIG
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 76
+    - index: 77
+      gameType: 0
+      rightAnswer: "ERH\xD6HUNG"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 77
+    - index: 78
+      gameType: 0
+      rightAnswer: HOFFNUNGSVOLL
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 78
+    - index: 79
+      gameType: 0
+      rightAnswer: SAUBER
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 79
+    - index: 80
+      gameType: 0
+      rightAnswer: echt
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 80
+    - index: 81
+      gameType: 0
+      rightAnswer: FEIND
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 81
+    - index: 82
+      gameType: 0
+      rightAnswer: anhalten
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 82
+    - index: 83
+      gameType: 0
+      rightAnswer: DUNKEL
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 83
+    - index: 84
+      gameType: 0
+      rightAnswer: zerbrochen
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 84
+    - index: 85
+      gameType: 0
+      rightAnswer: AUSGEBEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 85
+    - index: 86
+      gameType: 0
+      rightAnswer: "Realit\xE4t"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 86
+    - index: 87
+      gameType: 0
+      rightAnswer: feucht
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 87
+    - index: 88
+      gameType: 0
+      rightAnswer: LEER
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 88
+    - index: 89
+      gameType: 0
+      rightAnswer: "be\xE4ngstigend"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 89
+    - index: 90
+      gameType: 0
+      rightAnswer: ALLEIN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 90
+    - index: 91
+      gameType: 0
+      rightAnswer: OSTEN
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 91
+    - index: 92
+      gameType: 0
+      rightAnswer: SCHWARZ
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 92
+    - index: 93
+      gameType: 0
+      rightAnswer: STARK
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 93
+    - index: 94
+      gameType: 0
+      rightAnswer: SOMMER
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 94
+    - index: 95
+      gameType: 0
+      rightAnswer: Antwort
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 95
+    - index: 96
+      gameType: 0
+      rightAnswer: SICHTBAR
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 96
+    - index: 97
+      gameType: 0
+      rightAnswer: "FL\xDCSTERN"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 97
+    - index: 98
+      gameType: 0
+      rightAnswer: KORREKT
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 98
+    - index: 99
+      gameType: 0
+      rightAnswer: Amnestie
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 99
+    - index: 100
+      gameType: 0
+      rightAnswer: Verlierer
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 100
+    - index: 101
+      gameType: 0
+      rightAnswer: HAUSTIER
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 101
+    - index: 102
+      gameType: 0
+      rightAnswer: EIS
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 102
+    - index: 103
+      gameType: 0
+      rightAnswer: Negativ
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 103
+    - index: 104
+      gameType: 0
+      rightAnswer: Klein
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 104
+    - index: 105
+      gameType: 0
+      rightAnswer: aktiv
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 105
+    - index: 106
+      gameType: 0
+      rightAnswer: schicken
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 106
+    - index: 107
+      gameType: 0
+      rightAnswer: "Br\xFCder"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 107
+    - index: 108
+      gameType: 0
+      rightAnswer: dumm
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 108
+    - index: 109
+      gameType: 0
+      rightAnswer: langsam
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 109
+    - index: 110
+      gameType: 0
+      rightAnswer: breit
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 110
+    - index: 111
+      gameType: 0
+      rightAnswer: schreiben
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 111
+    - index: 112
+      gameType: 0
+      rightAnswer: speichern
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 112
+    - index: 113
+      gameType: 0
+      rightAnswer: "gro\xDF"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 113
+    - index: 114
+      gameType: 0
+      rightAnswer: schwer
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 114
+    - index: 115
+      gameType: 0
+      rightAnswer: Dorf
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 115
+    - index: 116
+      gameType: 0
+      rightAnswer: Sehkraft
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 116
+    - index: 117
+      gameType: 0
+      rightAnswer: weiblich
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 117
+    - index: 118
+      gameType: 0
+      rightAnswer: ertrinken
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 118
+    - index: 119
+      gameType: 0
+      rightAnswer: "m\xF6glich"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 119
+    - index: 120
+      gameType: 0
+      rightAnswer: hassen
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 120
+    - index: 121
+      gameType: 0
+      rightAnswer: Vergangenheit
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 121
+    - index: 122
+      gameType: 0
+      rightAnswer: wach
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 122
+    - index: 123
+      gameType: 0
+      rightAnswer: Riese
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 123
+    - index: 124
+      gameType: 0
+      rightAnswer: land
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 124
+    - index: 125
+      gameType: 0
+      rightAnswer: Frieden
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 125
+    - index: 126
+      gameType: 0
+      rightAnswer: Minimum
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 126
+    - index: 127
+      gameType: 0
+      rightAnswer: schwach
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 127
+    - index: 128
+      gameType: 0
+      rightAnswer: wild
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 128
+    - index: 129
+      gameType: 0
+      rightAnswer: Fangen
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 129
+    - index: 130
+      gameType: 0
+      rightAnswer: Mensch
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 130
+    - index: 131
+      gameType: 0
+      rightAnswer: gesund
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 131
+    - index: 132
+      gameType: 0
+      rightAnswer: sauer
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 132
+    - index: 133
+      gameType: 0
+      rightAnswer: "bl\xFChen"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 133
+    - index: 134
+      gameType: 0
+      rightAnswer: frei
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 134
+    - index: 135
+      gameType: 0
+      rightAnswer: faul
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 135
+    - index: 136
+      gameType: 0
+      rightAnswer: Lernen
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 136
+    - index: 137
+      gameType: 0
+      rightAnswer: hungrig
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 137
+    - index: 138
+      gameType: 0
+      rightAnswer: Wahrheit
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 138
+    - index: 139
+      gameType: 0
+      rightAnswer: neu
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 139
+    - index: 140
+      gameType: 0
+      rightAnswer: Sonne
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 140
+    - index: 141
+      gameType: 0
+      rightAnswer: niedrig
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 141
+    - index: 142
+      gameType: 0
+      rightAnswer: bauen
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 142
+    - index: 143
+      gameType: 0
+      rightAnswer: "h\xE4sslich"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 143
+    - index: 144
+      gameType: 0
+      rightAnswer: "R\xFCckgang"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 144
+    - index: 145
+      gameType: 0
+      rightAnswer: horizontal
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 145
+    - index: 146
+      gameType: 0
+      rightAnswer: Verbrecher
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 146
+    - index: 147
+      gameType: 0
+      rightAnswer: Hallo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 147
+    - index: 148
+      gameType: 0
+      rightAnswer: ausradieren
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 148
+    - index: 149
+      gameType: 0
+      rightAnswer: Mann
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 149
+    - index: 150
+      gameType: 0
+      rightAnswer: Schwestern
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 150
+  gameItems:
+  - key: 0
+    value: Abspielen
+  - key: 1
+    value: Info
+  - key: 2
+    value: Verlassen
+  - key: 3
+    value: "Zur\xFCck"
+  - key: 4
+    value: "Machen Sie sich bereit, einige Bildr\xE4tsel zu l\xF6sen! Steckenbleiben?
+      Verwenden Sie unterschiedliche Hinweise! Verdiene M\xFCnzen, indem du Aufgaben
+      erledigst oder kurze ADs ansiehst! genie\xDFen!"
+  - key: 5
+    value: Verschlossen
+  - key: 6
+    value: "Einen Buchstaben \xD6ffnen"
+  - key: 7
+    value: "Entfernen Sie zus\xE4tzliche Buchstaben"
+  - key: 8
+    value: Eine Antwort bekommen
+  - key: 9
+    value: "Holen Sie sich M\xFCnzen"
+  - key: 10
+    value: Anzeige ansehen
+  - key: 11
+    value: "Kaufen Sie f\xFCr echtes Geld"
+  - key: 12
+    value: Fortsetzen
+  - key: 13
+    value: "Hauptmen\xFC"
+  - key: 14
+    value: Level geschafft!
+  - key: 15
+    value: Wenn dir das Spiel gefallen hat, bewerte es bitte bei Google Play!
+  - key: 16
+    value: Bewertung
+  - key: 18
+    value: "Sp\xE4ter"
+  - key: 17
+    value: Nie
+  - key: 19
+    value: Einwilligung zur Datenerhebung
+  - key: 20
+    value: Personalisierte Werbung
+  - key: 21
+    value: "Erm\xF6glichen Sie AD-Netzwerken, gesammelte Daten zu verwenden und personalisierte
+      Werbung anzuzeigen"
+  - key: 22
+    value: Ja
+  - key: 23
+    value: Nein
+  - key: 24
+    value: "Sieht so aus, als h\xE4ttest du bessere Fortschritte!"
+  - key: 25
+    value: "M\xF6chten Sie es laden?"
+  - key: 26
+    value: "Hallo! Um Sie wissen zu lassen, verwenden wir Ihre Spiel- und Ger\xE4tedaten
+      mit Ihrer Zustimmung, um unser Spiel zu verbessern!"
+  - key: 27
+    value: "M\xF6chten Sie, dass wir Ihnen relevante Werbung pr\xE4sentieren, die
+      zu Ihren Interessen passt?"
+  - key: 28
+    value: "Best\xE4tigen"
+  - key: 29
+    value: Mehr erfahren
+  - key: 30
+    value: Entfernen Sie die falsche Antwort
+  - key: 31
+    value: Entfernen Sie zwei Antworten
+  - key: 32
+    value: Chance zu verwechseln
+  - key: 33
+    value: Bitte hilf mir, das Level zu beenden!
+  - key: 34
+    value: Hilfe von Freunden
+  - key: 35
+    value: Frag Freunde
+  - key: 36
+    value: Wette
+  - key: 37
+    value: Verwenden Sie Hinweise, wenn Sie nicht weiterkommen!
+  - key: 38
+    value: "Tippen Sie auf den Buchstaben, um ihn zu l\xF6schen. Wischen Sie, um
+      alle Buchstaben zu l\xF6schen."
+  - key: 39
+    value: "Kratzen Sie den Film, um das Bild zu enth\xFCllen!"
+  - key: 40
+    value: "Tippen Sie hier, um das Bild klarer zu machen. Ben\xF6tigt Gold!"
+  - key: 41
+    value: "Tippen Sie auf das Bild, um es deutlicher zu machen. Ben\xF6tigt Gold!"
+  - key: 42
+    value: "Tippen Sie darauf, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal
+      darauf, um zu schie\xDFen. Ben\xF6tigt Gold!"
+  - key: 43
+    value: "Tippen Sie auf den Bereich, um mit dem Zielen zu beginnen. Tippe zum
+      zweiten Mal darauf, um zu schie\xDFen. Ben\xF6tigt Gold!"
+  - key: 44
+    value: "Tippen Sie hier, um n\xFCtzliche Informationen zur Aufgabe zu erhalten!"
+  - key: 45
+    value: Wie schwierig ist diese Aufgabe? Machen Sie eine richtige Wette!
+  - key: 46
+    value: Mehr Spiele
+  - key: 47
+    value: Wiederholen
+  - key: 65
+    value: "Kaufen f\xFCr"
+  - key: 49
+    value: Einstellungen
+  - key: 50
+    value: Google Play-Spiele
+  - key: 51
+    value: "Privatsph\xE4re"
+  - key: 55
+    value: Datenschutzrichtlinie
+  - key: 52
+    value: Sprache
+  - key: 53
+    value: "Ger\xE4usche"
+  - key: 54
+    value: Musik
+  - key: 56
+    value: Anzeigeneinstellungen
+  - key: 57
+    value: Werbung
+  - key: 58
+    value: Meine Daten
+  - key: 59
+    value: Politik
+  - key: 60
+    value: Cloud-Speicherung
+  - key: 61
+    value: Nein danke
+  - key: 63
+    value: Neu laden
+  - key: 64
+    value: "Fortfahren nicht m\xF6glich"
+  - key: 66
+    value: Erhalten
+  - key: 67
+    value: "M\xFCnzen"
+  - key: 71
+    value: Bonus
+  - key: 69
+    value: "M\xF6chten Sie Google Play Games verwenden, um Ihren Spielfortschritt
+      zu speichern und ihn immer synchron zu halten?"
+  - key: 70
+    value: "Sie k\xF6nnen falsch antworten und das Spiel wird fortgesetzt. Wenn Sie
+      richtig antworten, erhalten Sie die ausgegebenen M\xFCnzen zur\xFCck"
+  - key: 68
+    value: "Kategorie w\xE4hlen"
+  subCategories: []
+  randomLetters: 7a0078006300760062006e006d006100730064006600670068006a006b006c00710077006500720074007900750069006f007000df00fc00e400f600

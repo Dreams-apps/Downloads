@@ -1,0 +1,1676 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae28374fa1d28e84d89ef31a27fdba89, type: 3}
+  m_Name: indonesia
+  m_EditorClassIdentifier: 
+  tasksData:
+  - name: Start
+    folderName: Start
+    localizedName: Memulai
+    gameType: 0
+    useMixedTypes: 0
+    sortingIndex: 1
+    forceNoImage: 0
+    orderNumber: 1
+    Levels:
+    - index: 1
+      gameType: 0
+      rightAnswer: di atas
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 1
+    - index: 2
+      gameType: 0
+      rightAnswer: tepi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 2
+    - index: 3
+      gameType: 0
+      rightAnswer: musim semi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 3
+    - index: 4
+      gameType: 0
+      rightAnswer: perang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 4
+    - index: 5
+      gameType: 0
+      rightAnswer: nyawa
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 5
+    - index: 6
+      gameType: 0
+      rightAnswer: tertawa
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 6
+    - index: 7
+      gameType: 0
+      rightAnswer: lantai
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 7
+    - index: 8
+      gameType: 0
+      rightAnswer: putih
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 8
+    - index: 9
+      gameType: 0
+      rightAnswer: kanan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 9
+    - index: 10
+      gameType: 0
+      rightAnswer: buruk sekali
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 10
+    - index: 11
+      gameType: 0
+      rightAnswer: berbahaya
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 11
+    - index: 12
+      gameType: 0
+      rightAnswer: awal
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 12
+    - index: 13
+      gameType: 0
+      rightAnswer: baik hati
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 13
+    - index: 14
+      gameType: 0
+      rightAnswer: mirip
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 14
+    - index: 15
+      gameType: 0
+      rightAnswer: benderang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 15
+    - index: 16
+      gameType: 0
+      rightAnswer: "Odnale\u017A\u0107"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 16
+    - index: 17
+      gameType: 0
+      rightAnswer: bahagia
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 17
+    - index: 18
+      gameType: 0
+      rightAnswer: melemparkan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 18
+    - index: 19
+      gameType: 0
+      rightAnswer: panasnya
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 19
+    - index: 20
+      gameType: 0
+      rightAnswer: tajam
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 20
+    - index: 21
+      gameType: 0
+      rightAnswer: menyerang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 21
+    - index: 22
+      gameType: 0
+      rightAnswer: tidak banyak
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 22
+    - index: 23
+      gameType: 0
+      rightAnswer: cerdas
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 23
+    - index: 24
+      gameType: 0
+      rightAnswer: tidur
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 24
+    - index: 25
+      gameType: 0
+      rightAnswer: alami
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 25
+    - index: 26
+      gameType: 0
+      rightAnswer: menghancurkan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 26
+    - index: 27
+      gameType: 0
+      rightAnswer: tenang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 27
+    - index: 28
+      gameType: 0
+      rightAnswer: kecil
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 28
+    - index: 29
+      gameType: 0
+      rightAnswer: pintu masuk
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 29
+    - index: 30
+      gameType: 0
+      rightAnswer: murah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 30
+    - index: 31
+      gameType: 0
+      rightAnswer: penuh
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 31
+    - index: 32
+      gameType: 0
+      rightAnswer: dangkal
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 32
+    - index: 33
+      gameType: 0
+      rightAnswer: keberanian
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 33
+    - index: 34
+      gameType: 0
+      rightAnswer: memperbolehkan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 34
+    - index: 35
+      gameType: 0
+      rightAnswer: keberangkatan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 35
+    - index: 36
+      gameType: 0
+      rightAnswer: hati hati
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 36
+    - index: 37
+      gameType: 0
+      rightAnswer: kematian
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 37
+    - index: 38
+      gameType: 0
+      rightAnswer: pengecut
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 38
+    - index: 39
+      gameType: 0
+      rightAnswer: ringan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 39
+    - index: 40
+      gameType: 0
+      rightAnswer: lembah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 40
+    - index: 41
+      gameType: 0
+      rightAnswer: di luar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 41
+    - index: 42
+      gameType: 0
+      rightAnswer: muda
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 42
+    - index: 43
+      gameType: 0
+      rightAnswer: benar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 43
+    - index: 44
+      gameType: 0
+      rightAnswer: utara
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 44
+    - index: 45
+      gameType: 0
+      rightAnswer: api
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 45
+    - index: 46
+      gameType: 0
+      rightAnswer: demokrasi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 46
+    - index: 47
+      gameType: 0
+      rightAnswer: berawan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 47
+    - index: 48
+      gameType: 0
+      rightAnswer: ketat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 48
+    - index: 49
+      gameType: 0
+      rightAnswer: cepat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 49
+    - index: 50
+      gameType: 0
+      rightAnswer: modern
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 50
+    - index: 51
+      gameType: 0
+      rightAnswer: setan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 51
+    - index: 52
+      gameType: 0
+      rightAnswer: siang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 52
+    - index: 53
+      gameType: 0
+      rightAnswer: sehat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 53
+    - index: 54
+      gameType: 0
+      rightAnswer: tinggi
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 54
+    - index: 55
+      gameType: 0
+      rightAnswer: ruang bawah tanah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 55
+    - index: 56
+      gameType: 0
+      rightAnswer: jauh
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 56
+    - index: 57
+      gameType: 0
+      rightAnswer: musim gugur
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 57
+    - index: 58
+      gameType: 0
+      rightAnswer: malang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 58
+    - index: 59
+      gameType: 0
+      rightAnswer: menuruni
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 59
+    - index: 60
+      gameType: 0
+      rightAnswer: kurus
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 60
+    - index: 61
+      gameType: 0
+      rightAnswer: setuju
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 61
+    - index: 62
+      gameType: 0
+      rightAnswer: menutup
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 62
+    - index: 63
+      gameType: 0
+      rightAnswer: berlimpah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 63
+    - index: 64
+      gameType: 0
+      rightAnswer: berdiri
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 64
+    - index: 65
+      gameType: 0
+      rightAnswer: perceraian
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 65
+    - index: 66
+      gameType: 0
+      rightAnswer: aman
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 66
+    - index: 67
+      gameType: 0
+      rightAnswer: miskin
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 67
+    - index: 68
+      gameType: 0
+      rightAnswer: kering
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 68
+    - index: 69
+      gameType: 0
+      rightAnswer: manis
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 69
+    - index: 70
+      gameType: 0
+      rightAnswer: mudah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 70
+    - index: 71
+      gameType: 0
+      rightAnswer: diam
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 71
+    - index: 72
+      gameType: 0
+      rightAnswer: cantik
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 72
+    - index: 73
+      gameType: 0
+      rightAnswer: kasar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 73
+    - index: 74
+      gameType: 0
+      rightAnswer: dingin
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 74
+    - index: 75
+      gameType: 0
+      rightAnswer: bagian depan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 75
+    - index: 76
+      gameType: 0
+      rightAnswer: hidup
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 76
+    - index: 77
+      gameType: 0
+      rightAnswer: peningkatan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 77
+    - index: 78
+      gameType: 0
+      rightAnswer: penuh harap
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 78
+    - index: 79
+      gameType: 0
+      rightAnswer: bersih
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 79
+    - index: 80
+      gameType: 0
+      rightAnswer: asli
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 80
+    - index: 81
+      gameType: 0
+      rightAnswer: musuh
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 81
+    - index: 82
+      gameType: 0
+      rightAnswer: menghentikan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 82
+    - index: 83
+      gameType: 0
+      rightAnswer: gelap
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 83
+    - index: 84
+      gameType: 0
+      rightAnswer: rusak
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 84
+    - index: 85
+      gameType: 0
+      rightAnswer: membelanjakan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 85
+    - index: 86
+      gameType: 0
+      rightAnswer: realitas
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 86
+    - index: 87
+      gameType: 0
+      rightAnswer: lembab
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 87
+    - index: 88
+      gameType: 0
+      rightAnswer: kosong
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 88
+    - index: 89
+      gameType: 0
+      rightAnswer: menakutkan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 89
+    - index: 90
+      gameType: 0
+      rightAnswer: sendirian
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 90
+    - index: 91
+      gameType: 0
+      rightAnswer: timur
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 91
+    - index: 92
+      gameType: 0
+      rightAnswer: hitam
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 92
+    - index: 93
+      gameType: 0
+      rightAnswer: kuat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 93
+    - index: 94
+      gameType: 0
+      rightAnswer: musim panas
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 94
+    - index: 95
+      gameType: 0
+      rightAnswer: jawaban
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 95
+    - index: 96
+      gameType: 0
+      rightAnswer: kelihatan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 96
+    - index: 97
+      gameType: 0
+      rightAnswer: berbisik
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 97
+    - index: 98
+      gameType: 0
+      rightAnswer: betul
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 98
+    - index: 99
+      gameType: 0
+      rightAnswer: pengampunan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 99
+    - index: 100
+      gameType: 0
+      rightAnswer: orang kalah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 100
+    - index: 101
+      gameType: 0
+      rightAnswer: jinak
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 101
+    - index: 102
+      gameType: 0
+      rightAnswer: es
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 102
+    - index: 103
+      gameType: 0
+      rightAnswer: negatif
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 103
+    - index: 104
+      gameType: 0
+      rightAnswer: pendek
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 104
+    - index: 105
+      gameType: 0
+      rightAnswer: giat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 105
+    - index: 106
+      gameType: 0
+      rightAnswer: mengirimkan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 106
+    - index: 107
+      gameType: 0
+      rightAnswer: kakak beradik
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 107
+    - index: 108
+      gameType: 0
+      rightAnswer: tolol
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 108
+    - index: 109
+      gameType: 0
+      rightAnswer: lambat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 109
+    - index: 110
+      gameType: 0
+      rightAnswer: lebar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 110
+    - index: 111
+      gameType: 0
+      rightAnswer: menulis
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 111
+    - index: 112
+      gameType: 0
+      rightAnswer: menyimpan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 112
+    - index: 113
+      gameType: 0
+      rightAnswer: besar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 113
+    - index: 114
+      gameType: 0
+      rightAnswer: berat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 114
+    - index: 115
+      gameType: 0
+      rightAnswer: desa
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 115
+    - index: 116
+      gameType: 0
+      rightAnswer: penglihatan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 116
+    - index: 117
+      gameType: 0
+      rightAnswer: betina
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 117
+    - index: 118
+      gameType: 0
+      rightAnswer: menenggelamkan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 118
+    - index: 119
+      gameType: 0
+      rightAnswer: mungkin
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 119
+    - index: 120
+      gameType: 0
+      rightAnswer: membenci
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 120
+    - index: 121
+      gameType: 0
+      rightAnswer: masa lalu
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 121
+    - index: 122
+      gameType: 0
+      rightAnswer: jaga
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 122
+    - index: 123
+      gameType: 0
+      rightAnswer: raksasa
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 123
+    - index: 124
+      gameType: 0
+      rightAnswer: daratan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 124
+    - index: 125
+      gameType: 0
+      rightAnswer: damai
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 125
+    - index: 126
+      gameType: 0
+      rightAnswer: paling sedikit
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 126
+    - index: 127
+      gameType: 0
+      rightAnswer: lemah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 127
+    - index: 128
+      gameType: 0
+      rightAnswer: liar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 128
+    - index: 129
+      gameType: 0
+      rightAnswer: menangkap
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 129
+    - index: 130
+      gameType: 0
+      rightAnswer: orang
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 130
+    - index: 131
+      gameType: 0
+      rightAnswer: sehat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 131
+    - index: 132
+      gameType: 0
+      rightAnswer: masam
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 132
+    - index: 133
+      gameType: 0
+      rightAnswer: mekar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 133
+    - index: 134
+      gameType: 0
+      rightAnswer: bebas
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 134
+    - index: 135
+      gameType: 0
+      rightAnswer: malas
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 135
+    - index: 136
+      gameType: 0
+      rightAnswer: belajar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 136
+    - index: 137
+      gameType: 0
+      rightAnswer: lapar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 137
+    - index: 138
+      gameType: 0
+      rightAnswer: kebenaran
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 138
+    - index: 139
+      gameType: 0
+      rightAnswer: baru
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 139
+    - index: 140
+      gameType: 0
+      rightAnswer: matahari
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 140
+    - index: 141
+      gameType: 0
+      rightAnswer: rendah
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 141
+    - index: 142
+      gameType: 0
+      rightAnswer: membangun
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 142
+    - index: 143
+      gameType: 0
+      rightAnswer: jelek
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 143
+    - index: 144
+      gameType: 0
+      rightAnswer: penurunan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 144
+    - index: 145
+      gameType: 0
+      rightAnswer: mendatar
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 145
+    - index: 146
+      gameType: 0
+      rightAnswer: penjahat
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 146
+    - index: 147
+      gameType: 0
+      rightAnswer: halo
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 147
+    - index: 148
+      gameType: 0
+      rightAnswer: menghapus
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 148
+    - index: 149
+      gameType: 0
+      rightAnswer: pria
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 149
+    - index: 150
+      gameType: 0
+      rightAnswer: saudara perempuan
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 150
+  gameItems:
+  - key: 0
+    value: Bermain
+  - key: 1
+    value: Info
+  - key: 2
+    value: Berhenti
+  - key: 3
+    value: Kembali
+  - key: 4
+    value: Bersiaplah untuk memecahkan beberapa teka-teki gambar! Terjebak? Gunakan
+      petunjuk yang berbeda! Hasilkan koin dengan menyelesaikan tugas atau dengan
+      menonton AD pendek! Selamat bersenang-senang!
+  - key: 5
+    value: Terkunci
+  - key: 6
+    value: Singkapkan huruf
+  - key: 7
+    value: Hapus huruf
+  - key: 8
+    value: Dapatkan jawaban
+  - key: 9
+    value: Dapatkan koin
+  - key: 10
+    value: Menonton iklan
+  - key: 11
+    value: Beli untuk mendapatkan uang
+  - key: 12
+    value: Terus
+  - key: 13
+    value: Menu Utama
+  - key: 14
+    value: Tingkat lengkap!
+  - key: 15
+    value: Jika Anda menyukai gim ini, beri peringkat di Google Play!
+  - key: 16
+    value: menilai
+  - key: 18
+    value: Kemudian
+  - key: 17
+    value: Tidak pernah
+  - key: 19
+    value: Persetujuan pengumpulan data
+  - key: 20
+    value: Iklan yang dipersonalisasi
+  - key: 21
+    value: Mengizinkan IKLAN jaringan untuk menggunakan data yang dikumpulkan dan
+      menampilkan iklan yang dipersonalisasi
+  - key: 22
+    value: Iya
+  - key: 23
+    value: tidak
+  - key: 24
+    value: Sepertinya Anda memiliki kemajuan yang lebih baik!
+  - key: 25
+    value: Apakah Anda ingin memuatnya?
+  - key: 26
+    value: Halo yang disana! Sekadar memberi tahu Anda, kami menggunakan gameplay
+      dan data perangkat Anda dengan persetujuan Anda untuk meningkatkan game kami!
+  - key: 27
+    value: Apakah Anda ingin kami menampilkan iklan relevan yang sesuai dengan minat
+      Anda?
+  - key: 28
+    value: Konfirmasi
+  - key: 29
+    value: Belajarlah lagi
+  - key: 30
+    value: Hapus jawaban yang salah
+  - key: 31
+    value: Hapus dua jawaban
+  - key: 32
+    value: Kesempatan untuk melakukan kesalahan
+  - key: 33
+    value: Tolong, bantu saya untuk menyelesaikan level!
+  - key: 34
+    value: Bantuan dari teman
+  - key: 35
+    value: Meminta teman-teman
+  - key: 36
+    value: Bertaruh
+  - key: 37
+    value: Gunakan petunjuk jika Anda buntu!
+  - key: 38
+    value: Tap the letter to clear it. Swipe to clear all the letters.
+  - key: 39
+    value: Ketuk surat itu untuk menghapusnya. Geser untuk menghapus semua huruf.
+  - key: 40
+    value: Ketuk ini untuk membuat gambar lebih jelas. Membutuhkan emas!
+  - key: 41
+    value: Ketuk ini untuk membuat gambar lebih jelas. Membutuhkan emas!
+  - key: 42
+    value: Ketuk ini untuk mulai membidik. Ketuk kedua kalinya untuk menembak. Membutuhkan
+      emas!
+  - key: 43
+    value: Ketuk area untuk mulai membidik. Ketuk kedua kalinya untuk menembak. Membutuhkan
+      emas!
+  - key: 44
+    value: Ketuk untuk mendapatkan info berguna tentang tugas!
+  - key: 45
+    value: Seberapa sulit tugas ini? Buat taruhan yang tepat!
+  - key: 46
+    value: lebih banyak permainan
+  - key: 47
+    value: mencoba kembali
+  - key: 65
+    value: Membeli untuk
+  - key: 49
+    value: Pengaturan
+  - key: 50
+    value: Google Play Game
+  - key: 51
+    value: Pribadi
+  - key: 55
+    value: Kebijakan pribadi
+  - key: 52
+    value: Bahasa
+  - key: 53
+    value: Kedengarannya
+  - key: 54
+    value: Musik
+  - key: 56
+    value: Pengaturan Iklan
+  - key: 57
+    value: Periklanan
+  - key: 58
+    value: Data saya
+  - key: 59
+    value: Kebijakan
+  - key: 60
+    value: Simpan Awan
+  - key: 61
+    value: Tidak, terima kasih
+  - key: 63
+    value: Muat ulang
+  - key: 64
+    value: Tidak Dapat Melanjutkan
+  - key: 66
+    value: Mendapatkan
+  - key: 67
+    value: Koin
+  - key: 71
+    value: Bonusnya
+  - key: 69
+    value: Apakah Anda ingin menggunakan Google Play Game untuk menyimpan kemajuan
+      game Anda agar selalu tersinkronisasi?
+  - key: 70
+    value: Anda bisa menjawab salah dan permainan akan dilanjutkan. Jika Anda menjawab
+      dengan benar, Anda akan mendapatkan kembali koin yang dihabiskan
+  - key: 68
+    value: Pilih Kategori
+  subCategories: []
+  randomLetters: 7a0078006300760062006e006d006100730064006600670068006a006b006c00710077006500720074007900750069006f007000

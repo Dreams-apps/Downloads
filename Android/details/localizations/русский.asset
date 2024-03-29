@@ -1,0 +1,1735 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae28374fa1d28e84d89ef31a27fdba89, type: 3}
+  m_Name: "\u0440\u0443\u0441\u0441\u043A\u0438\u0439"
+  m_EditorClassIdentifier: 
+  tasksData:
+  - name: Start
+    folderName: Start
+    localizedName: "\u041D\u0430\u0447\u0430\u043B\u043E"
+    gameType: 0
+    useMixedTypes: 0
+    sortingIndex: 1
+    forceNoImage: 0
+    orderNumber: 1
+    Levels:
+    - index: 1
+      gameType: 0
+      rightAnswer: "\u043D\u0430\u0432\u0435\u0440\u0445\u0443"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 1
+    - index: 2
+      gameType: 0
+      rightAnswer: "\u043A\u0440\u043E\u043C\u043A\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 2
+    - index: 3
+      gameType: 0
+      rightAnswer: "\u0432\u0435\u0441\u043D\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 3
+    - index: 4
+      gameType: 0
+      rightAnswer: "\u0432\u043E\u0439\u043D\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 4
+    - index: 5
+      gameType: 0
+      rightAnswer: "\u0436\u0438\u0437\u043D\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 5
+    - index: 6
+      gameType: 0
+      rightAnswer: "\u0441\u043C\u0435\u044F\u0442\u044C\u0441\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 6
+    - index: 7
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u043B"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 7
+    - index: 8
+      gameType: 0
+      rightAnswer: "\u0431\u0435\u043B\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 8
+    - index: 9
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0430\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 9
+    - index: 10
+      gameType: 0
+      rightAnswer: "\u0443\u0436\u0430\u0441\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 10
+    - index: 11
+      gameType: 0
+      rightAnswer: "\u043E\u043F\u0430\u0441\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 11
+    - index: 12
+      gameType: 0
+      rightAnswer: "\u043D\u0430\u0447\u0430\u043B\u043E"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 12
+    - index: 13
+      gameType: 0
+      rightAnswer: "\u0434\u043E\u0431\u0440\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 13
+    - index: 14
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u0445\u043E\u0436\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 14
+    - index: 15
+      gameType: 0
+      rightAnswer: "\u0441\u0432\u0435\u0442\u043B\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 15
+    - index: 16
+      gameType: 0
+      rightAnswer: "\u043D\u0430\u0448\u0435\u043B"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 16
+    - index: 17
+      gameType: 0
+      rightAnswer: "\u0441\u0447\u0430\u0441\u0442\u043B\u0438\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 17
+    - index: 18
+      gameType: 0
+      rightAnswer: "\u0431\u0440\u043E\u0441\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 18
+    - index: 19
+      gameType: 0
+      rightAnswer: "\u0436\u0430\u0440\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 19
+    - index: 20
+      gameType: 0
+      rightAnswer: "\u043E\u0441\u0442\u0440\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 20
+    - index: 21
+      gameType: 0
+      rightAnswer: "\u043D\u0430\u043F\u0430\u0434\u0435\u043D\u0438\u0435"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 21
+    - index: 22
+      gameType: 0
+      rightAnswer: "\u043D\u0435\u043C\u043D\u043E\u0433\u043E"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 22
+    - index: 23
+      gameType: 0
+      rightAnswer: "\u0442\u043E\u043B\u043A\u043E\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 23
+    - index: 24
+      gameType: 0
+      rightAnswer: "\u0441\u043F\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 24
+    - index: 25
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0438\u0440\u043E\u0434\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 25
+    - index: 26
+      gameType: 0
+      rightAnswer: "\u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 26
+    - index: 27
+      gameType: 0
+      rightAnswer: "\u0441\u043F\u043E\u043A\u043E\u0439\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 27
+    - index: 28
+      gameType: 0
+      rightAnswer: "\u043C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 28
+    - index: 29
+      gameType: 0
+      rightAnswer: "\u0432\u0445\u043E\u0434"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 29
+    - index: 30
+      gameType: 0
+      rightAnswer: "\u0434\u0435\u0448\u0435\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 30
+    - index: 31
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u043B\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 31
+    - index: 32
+      gameType: 0
+      rightAnswer: "\u043C\u0435\u043B\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 32
+    - index: 33
+      gameType: 0
+      rightAnswer: "\u0445\u0440\u0430\u0431\u0440\u043E\u0441\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 33
+    - index: 34
+      gameType: 0
+      rightAnswer: "\u0440\u0430\u0437\u0440\u0435\u0448\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 34
+    - index: 35
+      gameType: 0
+      rightAnswer: "\u043E\u0442\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 35
+    - index: 36
+      gameType: 0
+      rightAnswer: "\u043E\u0441\u0442\u043E\u0440\u043E\u0436\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 36
+    - index: 37
+      gameType: 0
+      rightAnswer: "\u0441\u043C\u0435\u0440\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 37
+    - index: 38
+      gameType: 0
+      rightAnswer: "\u0442\u0440\u0443\u0441"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 38
+    - index: 39
+      gameType: 0
+      rightAnswer: "\u043B\u0435\u0433\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 39
+    - index: 40
+      gameType: 0
+      rightAnswer: "\u0434\u043E\u043B\u0438\u043D\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 40
+    - index: 41
+      gameType: 0
+      rightAnswer: "\u0441\u043D\u0430\u0440\u0443\u0436\u0438"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 41
+    - index: 42
+      gameType: 0
+      rightAnswer: "\u043C\u043E\u043B\u043E\u0434\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 42
+    - index: 43
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 43
+    - index: 44
+      gameType: 0
+      rightAnswer: "\u0441\u0435\u0432\u0435\u0440"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 44
+    - index: 45
+      gameType: 0
+      rightAnswer: "\u043E\u0433\u043E\u043D\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 45
+    - index: 46
+      gameType: 0
+      rightAnswer: "\u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 46
+    - index: 47
+      gameType: 0
+      rightAnswer: "\u043E\u0431\u043B\u0430\u0447\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 47
+    - index: 48
+      gameType: 0
+      rightAnswer: "\u043E\u0431\u043B\u0435\u0433\u0430\u044E\u0449\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 48
+    - index: 49
+      gameType: 0
+      rightAnswer: "\u0431\u044B\u0441\u0442\u0440\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 49
+    - index: 50
+      gameType: 0
+      rightAnswer: "\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 50
+    - index: 51
+      gameType: 0
+      rightAnswer: "\u0434\u044C\u044F\u0432\u043E\u043B"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 51
+    - index: 52
+      gameType: 0
+      rightAnswer: "\u0434\u0435\u043D\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 52
+    - index: 53
+      gameType: 0
+      rightAnswer: "\u0437\u0434\u043E\u0440\u043E\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 53
+    - index: 54
+      gameType: 0
+      rightAnswer: "\u0432\u044B\u0441\u043E\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 54
+    - index: 55
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u0434\u0432\u0430\u043B"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 55
+    - index: 56
+      gameType: 0
+      rightAnswer: "\u0434\u0430\u043B\u0435\u043A\u043E"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 56
+    - index: 57
+      gameType: 0
+      rightAnswer: "\u043E\u0441\u0435\u043D\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 57
+    - index: 58
+      gameType: 0
+      rightAnswer: "\u043D\u0435 \u043F\u043E\u0432\u0435\u0437\u043B\u043E"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 58
+    - index: 59
+      gameType: 0
+      rightAnswer: "\u0432\u043D\u0438\u0437\u0443"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 59
+    - index: 60
+      gameType: 0
+      rightAnswer: "\u0445\u0443\u0434\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 60
+    - index: 61
+      gameType: 0
+      rightAnswer: "\u0441\u043E\u0433\u043B\u0430\u0448\u0430\u0442\u044C\u0441\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 61
+    - index: 62
+      gameType: 0
+      rightAnswer: "\u0437\u0430\u043A\u0440\u044B\u0432\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 62
+    - index: 63
+      gameType: 0
+      rightAnswer: "\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 63
+    - index: 64
+      gameType: 0
+      rightAnswer: "\u0441\u0442\u043E\u044F\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 64
+    - index: 65
+      gameType: 0
+      rightAnswer: "\u0440\u0430\u0437\u0432\u043E\u0434"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 65
+    - index: 66
+      gameType: 0
+      rightAnswer: "\u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 66
+    - index: 67
+      gameType: 0
+      rightAnswer: "\u0431\u0435\u0434\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 67
+    - index: 68
+      gameType: 0
+      rightAnswer: "\u0441\u0443\u0445\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 68
+    - index: 69
+      gameType: 0
+      rightAnswer: "\u0441\u043B\u0430\u0434\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 69
+    - index: 70
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u043E\u0441\u0442\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 70
+    - index: 71
+      gameType: 0
+      rightAnswer: "\u0442\u0438\u0445\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 71
+    - index: 72
+      gameType: 0
+      rightAnswer: "\u043A\u0440\u0430\u0441\u0438\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 72
+    - index: 73
+      gameType: 0
+      rightAnswer: "\u0436\u0451\u0441\u0442\u043A\u0430\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 73
+    - index: 74
+      gameType: 0
+      rightAnswer: "\u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 74
+    - index: 75
+      gameType: 0
+      rightAnswer: "\u0432\u043F\u0435\u0440\u0435\u0434\u0438"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 75
+    - index: 76
+      gameType: 0
+      rightAnswer: "\u0436\u0438\u0432\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 76
+    - index: 77
+      gameType: 0
+      rightAnswer: "\u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 77
+    - index: 78
+      gameType: 0
+      rightAnswer: "\u043E\u043F\u0442\u0438\u043C\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 78
+    - index: 79
+      gameType: 0
+      rightAnswer: "\u0447\u0438\u0441\u0442\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 79
+    - index: 80
+      gameType: 0
+      rightAnswer: "\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 80
+    - index: 81
+      gameType: 0
+      rightAnswer: "\u0432\u0440\u0430\u0433"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 81
+    - index: 82
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0435\u043A\u0440\u0430\u0449\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 82
+    - index: 83
+      gameType: 0
+      rightAnswer: "\u0442\u0435\u043C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 83
+    - index: 84
+      gameType: 0
+      rightAnswer: "\u0441\u043B\u043E\u043C\u0430\u043D\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 84
+    - index: 85
+      gameType: 0
+      rightAnswer: "\u0442\u0440\u0430\u0442\u0438\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 85
+    - index: 86
+      gameType: 0
+      rightAnswer: "\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 86
+    - index: 87
+      gameType: 0
+      rightAnswer: "\u0432\u043B\u0430\u0436\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 87
+    - index: 88
+      gameType: 0
+      rightAnswer: "\u043F\u0443\u0441\u0442\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 88
+    - index: 89
+      gameType: 0
+      rightAnswer: "\u0436\u0443\u0442\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 89
+    - index: 90
+      gameType: 0
+      rightAnswer: "\u043E\u0434\u0438\u043D\u043E\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 90
+    - index: 91
+      gameType: 0
+      rightAnswer: "\u0432\u043E\u0441\u0442\u043E\u043A"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 91
+    - index: 92
+      gameType: 0
+      rightAnswer: "\u0447\u0435\u0440\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 92
+    - index: 93
+      gameType: 0
+      rightAnswer: "\u0441\u0438\u043B\u044C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 93
+    - index: 94
+      gameType: 0
+      rightAnswer: "\u043B\u0435\u0442\u043E"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 94
+    - index: 95
+      gameType: 0
+      rightAnswer: "\u043E\u0442\u0432\u0435\u0447\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 95
+    - index: 96
+      gameType: 0
+      rightAnswer: "\u0432\u0438\u0434\u0438\u043C\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 96
+    - index: 97
+      gameType: 0
+      rightAnswer: "\u0448\u0435\u043F\u0442\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 97
+    - index: 98
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 98
+    - index: 99
+      gameType: 0
+      rightAnswer: "\u0430\u043C\u043D\u0438\u0441\u0442\u0438\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 99
+    - index: 100
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0432\u0448\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 100
+    - index: 101
+      gameType: 0
+      rightAnswer: "\u0440\u0443\u0447\u043D\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 101
+    - index: 102
+      gameType: 0
+      rightAnswer: "\u043B\u0435\u0434"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 102
+    - index: 103
+      gameType: 0
+      rightAnswer: "\u043E\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 103
+    - index: 104
+      gameType: 0
+      rightAnswer: "\u043D\u0435\u0432\u044B\u0441\u043E\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 104
+    - index: 105
+      gameType: 0
+      rightAnswer: "\u044D\u043D\u0435\u0440\u0433\u0438\u0447\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 105
+    - index: 106
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u0441\u044B\u043B\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 106
+    - index: 107
+      gameType: 0
+      rightAnswer: "\u0431\u0440\u0430\u0442\u044C\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 107
+    - index: 108
+      gameType: 0
+      rightAnswer: "\u0433\u043B\u0443\u043F\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 108
+    - index: 109
+      gameType: 0
+      rightAnswer: "\u043C\u0435\u0434\u043B\u0435\u043D\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 109
+    - index: 110
+      gameType: 0
+      rightAnswer: "\u0448\u0438\u0440\u043E\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 110
+    - index: 111
+      gameType: 0
+      rightAnswer: "\u043F\u0438\u0441\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 111
+    - index: 112
+      gameType: 0
+      rightAnswer: "\u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 112
+    - index: 113
+      gameType: 0
+      rightAnswer: "\u0431\u043E\u043B\u044C\u0448\u043E\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 113
+    - index: 114
+      gameType: 0
+      rightAnswer: "\u0442\u044F\u0436\u0435\u043B\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 114
+    - index: 115
+      gameType: 0
+      rightAnswer: "\u0434\u0435\u0440\u0435\u0432\u043D\u044F"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 115
+    - index: 116
+      gameType: 0
+      rightAnswer: "\u0437\u0440\u0435\u043D\u0438\u0435"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 116
+    - index: 117
+      gameType: 0
+      rightAnswer: "\u0436\u0435\u043D\u0441\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 117
+    - index: 118
+      gameType: 0
+      rightAnswer: "\u0442\u043E\u043D\u0443\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 118
+    - index: 119
+      gameType: 0
+      rightAnswer: "\u0432\u043E\u0437\u043C\u043E\u0436\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 119
+    - index: 120
+      gameType: 0
+      rightAnswer: "\u043D\u0435\u043D\u0430\u0432\u0438\u0434\u0435\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 120
+    - index: 121
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 121
+    - index: 122
+      gameType: 0
+      rightAnswer: "\u0431\u043E\u0434\u0440\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 122
+    - index: 123
+      gameType: 0
+      rightAnswer: "\u0432\u0435\u043B\u0438\u043A\u0430\u043D"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 123
+    - index: 124
+      gameType: 0
+      rightAnswer: "\u0441\u0443\u0448\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 124
+    - index: 125
+      gameType: 0
+      rightAnswer: "\u043C\u0438\u0440"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 125
+    - index: 126
+      gameType: 0
+      rightAnswer: "\u043C\u0438\u043D\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 126
+    - index: 127
+      gameType: 0
+      rightAnswer: "\u0441\u043B\u0430\u0431\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 127
+    - index: 128
+      gameType: 0
+      rightAnswer: "\u0434\u0438\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 128
+    - index: 129
+      gameType: 0
+      rightAnswer: "\u043B\u043E\u0432\u0438\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 129
+    - index: 130
+      gameType: 0
+      rightAnswer: "\u0447\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 130
+    - index: 131
+      gameType: 0
+      rightAnswer: "\u043F\u043E\u043B\u0435\u0437\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 131
+    - index: 132
+      gameType: 0
+      rightAnswer: "\u043A\u0438\u0441\u043B\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 132
+    - index: 133
+      gameType: 0
+      rightAnswer: "\u0432 \u0446\u0432\u0435\u0442\u0443"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 133
+    - index: 134
+      gameType: 0
+      rightAnswer: "\u0441\u0432\u043E\u0431\u043E\u0434\u0435"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 134
+    - index: 135
+      gameType: 0
+      rightAnswer: "\u043B\u0435\u043D\u0438\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 135
+    - index: 136
+      gameType: 0
+      rightAnswer: "\u0438\u0437\u0443\u0447\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 136
+    - index: 137
+      gameType: 0
+      rightAnswer: "\u0433\u043E\u043B\u043E\u0434\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 137
+    - index: 138
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0430\u0432\u0434\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 138
+    - index: 139
+      gameType: 0
+      rightAnswer: "\u043D\u043E\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 139
+    - index: 140
+      gameType: 0
+      rightAnswer: "\u0441\u043E\u043B\u043D\u0446\u0435"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 140
+    - index: 141
+      gameType: 0
+      rightAnswer: "\u043D\u0438\u0437\u043A\u0438\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 141
+    - index: 142
+      gameType: 0
+      rightAnswer: "\u0441\u0442\u0440\u043E\u0438\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 142
+    - index: 143
+      gameType: 0
+      rightAnswer: "\u0443\u0440\u043E\u0434\u043B\u0438\u0432\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 143
+    - index: 144
+      gameType: 0
+      rightAnswer: "\u0443\u043C\u0435\u043D\u044C\u0448\u0435\u043D\u0438\u0435"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 144
+    - index: 145
+      gameType: 0
+      rightAnswer: "\u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0439"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 145
+    - index: 146
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0435\u0441\u0442\u0443\u043F\u043D\u0438\u043A"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 146
+    - index: 147
+      gameType: 0
+      rightAnswer: "\u043F\u0440\u0438\u0432\u0435\u0442"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 147
+    - index: 148
+      gameType: 0
+      rightAnswer: "\u0441\u0442\u0438\u0440\u0430\u0442\u044C"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 148
+    - index: 149
+      gameType: 0
+      rightAnswer: "\u043C\u0443\u0436\u0447\u0438\u043D\u0430"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 149
+    - index: 150
+      gameType: 0
+      rightAnswer: "\u0441\u0435\u0441\u0442\u0440\u044B"
+      noImage: 0
+      cost: 10
+      reward: 10
+      imageText: 
+      wrongAnswers: []
+      imageDescription: 
+      number: 150
+  gameItems:
+  - key: 0
+    value: "\u0438\u0433\u0440\u0430\u0442\u044C"
+  - key: 1
+    value: "\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F"
+  - key: 2
+    value: "\u0432\u044B\u0445\u043E\u0434"
+  - key: 3
+    value: "\u043D\u0430\u0437\u0430\u0434"
+  - key: 4
+    value: "\u0411\u0443\u0434\u044C\u0442\u0435 \u0433\u043E\u0442\u043E\u0432\u044B,
+      \u0447\u0442\u043E\u0431\u044B \u0440\u0435\u0448\u0438\u0442\u044C \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u0435
+      \u0433\u043E\u043B\u043E\u0432\u043E\u043B\u043E\u043C\u043A\u0438 \u043A\u0430\u0440\u0442\u0438\u043D\u043A\u0438!
+      \u0417\u0430\u0441\u0442\u0440\u044F\u0442\u044C? \u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435
+      \u0440\u0430\u0437\u043D\u044B\u0435 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0438!
+      \u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0439\u0442\u0435
+      \u043C\u043E\u043D\u0435\u0442\u044B, \u0432\u044B\u043F\u043E\u043B\u043D\u044F\u044F
+      \u0437\u0430\u0434\u0430\u043D\u0438\u044F \u0438\u043B\u0438 \u043F\u0440\u043E\u0441\u043C\u0430\u0442\u0440\u0438\u0432\u0430\u044F
+      \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0435 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u044F!
+      \u041F\u043E\u0432\u0435\u0441\u0435\u043B\u0438\u0441\u044C!"
+  - key: 5
+    value: "\u0437\u0430\u043F\u0435\u0440\u0442\u044B\u0439"
+  - key: 6
+    value: "\u0420\u0430\u0441\u043A\u0440\u044B\u0442\u044C \u0431\u0443\u043A\u0432\u0443"
+  - key: 7
+    value: "\u0423\u0434\u0430\u043B\u0438\u0442\u044C \u043F\u0438\u0441\u044C\u043C\u0430"
+  - key: 8
+    value: "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u043E\u0442\u0432\u0435\u0442"
+  - key: 9
+    value: "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u043C\u043E\u043D\u0435\u0442\u044B"
+  - key: 10
+    value: "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0435"
+  - key: 11
+    value: "\u041A\u0443\u043F\u0438\u0442\u044C \u0437\u0430 \u0434\u0435\u043D\u044C\u0433\u0438"
+  - key: 12
+    value: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u0442\u044C"
+  - key: 13
+    value: "\u0433\u043B\u0430\u0432\u043D\u043E\u0435 \u043C\u0435\u043D\u044E"
+  - key: 14
+    value: "Y\u0440\u043E\u0432\u0435\u043D\u044C \u043F\u0440\u043E\u0439\u0434\u0435\u043D"
+  - key: 15
+    value: "\u0415\u0441\u043B\u0438 \u0432\u0430\u043C \u043F\u043E\u043D\u0440\u0430\u0432\u0438\u043B\u0430\u0441\u044C
+      \u0438\u0433\u0440\u0430, \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430,
+      \u043E\u0446\u0435\u043D\u0438\u0442\u0435 \u0435\u0435 \u0432 Google Play!"
+  - key: 16
+    value: "\u043F\u043E\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C"
+  - key: 18
+    value: "\u043F\u043E\u0437\u0436\u0435"
+  - key: 17
+    value: "\u043D\u0438\u043A\u043E\u0433\u0434\u0430"
+  - key: 19
+    value: "\u0421\u043E\u0433\u043B\u0430\u0441\u0438\u0435 \u043D\u0430 \u0441\u0431\u043E\u0440
+      \u0434\u0430\u043D\u043D\u044B\u0445"
+  - key: 20
+    value: "\u041F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F
+      \u0440\u0435\u043A\u043B\u0430\u043C\u0430"
+  - key: 21
+    value: "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044C \u0441\u0435\u0442\u044F\u043C
+      \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0439 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+      \u0441\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435
+      \u0438 \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0442\u044C \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0435
+      \u0440\u0435\u043A\u043B\u0430\u043C\u043D\u044B\u0435 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u044F"
+  - key: 22
+    value: "\u0434\u0430"
+  - key: 23
+    value: "\u043D\u0435\u0442"
+  - key: 24
+    value: "\u041F\u043E\u0445\u043E\u0436\u0435, \u0443 \u0432\u0430\u0441 \u043B\u0443\u0447\u0448\u0435
+      \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441!"
+  - key: 25
+    value: "\u0412\u044B \u0445\u043E\u0442\u0438\u0442\u0435 \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C
+      \u0435\u0433\u043E?"
+  - key: 26
+    value: "\u041F\u0440\u0438\u0432\u0435\u0442! \u041F\u0440\u043E\u0441\u0442\u043E
+      \u0447\u0442\u043E\u0431\u044B \u0441\u043E\u043E\u0431\u0449\u0438\u0442\u044C
+      \u0432\u0430\u043C, \u043C\u044B \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C
+      \u0432\u0430\u0448 \u0438\u0433\u0440\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441
+      \u0438 \u0434\u0430\u043D\u043D\u044B\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u0441 \u0432\u0430\u0448\u0435\u0433\u043E \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u044F,
+      \u0447\u0442\u043E\u0431\u044B \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
+      \u043D\u0430\u0448\u0443 \u0438\u0433\u0440\u0443!"
+  - key: 27
+    value: "\u0412\u044B \u0445\u043E\u0442\u0438\u0442\u0435, \u0447\u0442\u043E\u0431\u044B
+      \u043C\u044B \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043B\u0438
+      \u0432\u0430\u043C \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044E\u0449\u0443\u044E
+      \u0440\u0435\u043A\u043B\u0430\u043C\u0443, \u043A\u043E\u0442\u043E\u0440\u0430\u044F
+      \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442
+      \u0432\u0430\u0448\u0438\u043C \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u0430\u043C?"
+  - key: 28
+    value: "\u043F\u043E\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043D\u0438\u044F"
+  - key: 29
+    value: "\u0432\u044B\u0443\u0447\u0438\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u0435"
+  - key: 30
+    value: "\u0423\u0434\u0430\u043B\u0438\u0442\u044C \u043D\u0435\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0439
+      \u043E\u0442\u0432\u0435\u0442"
+  - key: 31
+    value: "\u0423\u0434\u0430\u043B\u0438\u0442\u044C \u0434\u0432\u0430 \u043E\u0442\u0432\u0435\u0442\u0430"
+  - key: 32
+    value: "\u0428\u0430\u043D\u0441 \u043E\u0448\u0438\u0431\u0438\u0442\u044C\u0441\u044F"
+  - key: 33
+    value: "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u043F\u043E\u043C\u043E\u0433\u0438\u0442\u0435
+      \u043C\u043D\u0435 \u043F\u0440\u043E\u0439\u0442\u0438 \u0443\u0440\u043E\u0432\u0435\u043D\u044C!"
+  - key: 34
+    value: "\u041F\u043E\u043C\u043E\u0449\u044C \u043E\u0442 \u0434\u0440\u0443\u0437\u0435\u0439"
+  - key: 35
+    value: "\u0421\u043F\u0440\u043E\u0441\u0438 \u0434\u0440\u0443\u0437\u0435\u0439"
+  - key: 36
+    value: "\u0421\u0442\u0430\u0432\u043A\u0430"
+  - key: 37
+    value: "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0438,
+      \u0435\u0441\u043B\u0438 \u0432\u044B \u0437\u0430\u0441\u0442\u0440\u044F\u043B\u0438!"
+  - key: 38
+    value: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u043F\u0438\u0441\u044C\u043C\u043E,
+      \u0447\u0442\u043E\u0431\u044B \u043E\u0447\u0438\u0441\u0442\u0438\u0442\u044C
+      \u0435\u0433\u043E. \u041F\u0440\u043E\u0432\u0435\u0434\u0438\u0442\u0435,
+      \u0447\u0442\u043E\u0431\u044B \u043E\u0447\u0438\u0441\u0442\u0438\u0442\u044C
+      \u0432\u0441\u0435 \u0431\u0443\u043A\u0432\u044B."
+  - key: 39
+    value: "\u0421\u043E\u0441\u043A\u043E\u0431\u043B\u0438\u0442\u0435 \u043F\u043B\u0435\u043D\u043A\u0443,
+      \u0447\u0442\u043E\u0431\u044B \u0440\u0430\u0441\u043A\u0440\u044B\u0442\u044C
+      \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0435!"
+  - key: 40
+    value: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435, \u0447\u0442\u043E\u0431\u044B
+      \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0435
+      \u0431\u043E\u043B\u0435\u0435 \u0447\u0435\u0442\u043A\u0438\u043C. \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F
+      \u0437\u043E\u043B\u043E\u0442\u043E!"
+  - key: 41
+    value: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0435,
+      \u0447\u0442\u043E\u0431\u044B \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0435\u0433\u043E
+      \u0431\u043E\u043B\u0435\u0435 \u0447\u0435\u0442\u043A\u0438\u043C. \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F
+      \u0437\u043E\u043B\u043E\u0442\u043E!"
+  - key: 42
+    value: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435, \u0447\u0442\u043E\u0431\u044B
+      \u043D\u0430\u0447\u0430\u0442\u044C \u043F\u0440\u0438\u0446\u0435\u043B\u0438\u0432\u0430\u0442\u044C\u0441\u044F.
+      \u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0432\u043E \u0432\u0442\u043E\u0440\u043E\u0439
+      \u0440\u0430\u0437, \u0447\u0442\u043E\u0431\u044B \u0441\u0442\u0440\u0435\u043B\u044F\u0442\u044C.
+      \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0437\u043E\u043B\u043E\u0442\u043E!"
+  - key: 43
+    value: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u043E\u0431\u043B\u0430\u0441\u0442\u044C,
+      \u0447\u0442\u043E\u0431\u044B \u043D\u0430\u0447\u0430\u0442\u044C \u043F\u0440\u0438\u0446\u0435\u043B\u0438\u0432\u0430\u0442\u044C\u0441\u044F.
+      \u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0432\u043E \u0432\u0442\u043E\u0440\u043E\u0439
+      \u0440\u0430\u0437, \u0447\u0442\u043E\u0431\u044B \u0441\u0442\u0440\u0435\u043B\u044F\u0442\u044C.
+      \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0437\u043E\u043B\u043E\u0442\u043E!"
+  - key: 44
+    value: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435, \u0447\u0442\u043E\u0431\u044B
+      \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u043F\u043E\u043B\u0435\u0437\u043D\u0443\u044E
+      \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E \u043E \u0437\u0430\u0434\u0430\u0447\u0435!"
+  - key: 45
+    value: "\u041D\u0430\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0441\u043B\u043E\u0436\u043D\u0430
+      \u044D\u0442\u0430 \u0437\u0430\u0434\u0430\u0447\u0430? \u0421\u0434\u0435\u043B\u0430\u0439
+      \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u0443\u044E \u0441\u0442\u0430\u0432\u043A\u0443!"
+  - key: 46
+    value: "\u0431\u043E\u043B\u044C\u0448\u0435 \u0438\u0433\u0440"
+  - key: 47
+    value: "\u043F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u044C \u043F\u043E\u043F\u044B\u0442\u043A\u0443"
+  - key: 65
+    value: "\u041A\u0443\u043F\u0438\u0442\u044C \u0434\u043B\u044F"
+  - key: 49
+    value: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+  - key: 50
+    value: "Google Play \u0438\u0433\u0440\u044B"
+  - key: 51
+    value: "\u041A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+  - key: 55
+    value: "\u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438"
+  - key: 52
+    value: "\u042F\u0437\u044B\u043A"
+  - key: 53
+    value: "\u0417\u0432\u0443\u043A\u0438"
+  - key: 54
+    value: "\u041C\u0443\u0437\u044B\u043A\u0430"
+  - key: 56
+    value: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0440\u0435\u043A\u043B\u0430\u043C\u044B"
+  - key: 57
+    value: "\u0420\u0435\u043A\u043B\u0430\u043C\u0430"
+  - key: 58
+    value: "\u041C\u043E\u0438 \u0434\u0430\u043D\u043D\u044B\u0435"
+  - key: 59
+    value: "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430"
+  - key: 60
+    value: "\u041E\u0431\u043B\u0430\u0447\u043D\u043E\u0435 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435"
+  - key: 61
+    value: "\u041D\u0435\u0442, \u0441\u043F\u0430\u0441\u0438\u0431\u043E"
+  - key: 63
+    value: "\u041F\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C"
+  - key: 64
+    value: "\u041D\u0435\u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+  - key: 66
+    value: "\u041F\u043E\u043B\u0443\u0447\u0430\u0442\u044C"
+  - key: 67
+    value: "\u041C\u043E\u043D\u0435\u0442\u044B"
+  - key: 71
+    value: "\u0411\u043E\u043D\u0443\u0441"
+  - key: 69
+    value: "\u0425\u043E\u0442\u0438\u0442\u0435 \u043B\u0438 \u0432\u044B \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+      Google Play Games, \u0447\u0442\u043E\u0431\u044B \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0442\u044C
+      \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441 \u0432 \u0438\u0433\u0440\u0435
+      \u0438 \u0432\u0441\u0435\u0433\u0434\u0430 \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+      \u0435\u0433\u043E?"
+  - key: 70
+    value: "\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u043E\u0442\u0432\u0435\u0442\u0438\u0442\u044C
+      \u043D\u0435\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E, \u0438
+      \u0438\u0433\u0440\u0430 \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u0441\u044F.
+      \u0415\u0441\u043B\u0438 \u0432\u044B \u043E\u0442\u0432\u0435\u0442\u0438\u0442\u0435
+      \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E, \u0432\u0430\u043C
+      \u0432\u0435\u0440\u043D\u0443\u0442\u0441\u044F \u043F\u043E\u0442\u0440\u0430\u0447\u0435\u043D\u043D\u044B\u0435
+      \u043C\u043E\u043D\u0435\u0442\u044B."
+  - key: 68
+    value: "\u0432\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044E"
+  subCategories: []
+  randomLetters: 300411041204130414041504010416041704180419041a041b041c041d041e041f0420042104220423042404250426042704280429042a042b042c042d042e042f04
